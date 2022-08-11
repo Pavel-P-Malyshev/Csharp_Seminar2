@@ -1,6 +1,6 @@
 ﻿int MostVal()
 {
-    int randomval=new Random().Next(10,99);
+    int randomval=new Random().Next(10,100);
     Console.WriteLine($"Generated value is:{randomval}");
 
     if((randomval/10)>(randomval%10)) 
