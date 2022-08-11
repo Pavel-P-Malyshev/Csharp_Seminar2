@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2\Task001_enddigit\bin\Debug\net6.0\Task001_enddigit.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2\Task001_enddigit\bin\Debug\net6.0\Task001_enddigit.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2\Task001_enddigit\bin\Debug\net6.0\Task001_enddigit.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2\Task001_enddigit\bin\Debug\net6.0\Task001_enddigit.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2\Task001_enddigit\bin\Debug\net6.0\Task001_enddigit.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2\Task001_enddigit\obj\Debug\net6.0\Task001_enddigit.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2\Task001_enddigit\obj\Debug\net6.0\Task001_enddigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2\Task001_enddigit\obj\Debug\net6.0\Task001_enddigit.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2\Task001_enddigit\obj\Debug\net6.0\Task001_enddigit.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2\Task001_enddigit\obj\Debug\net6.0\Task001_enddigit.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2\Task001_enddigit\obj\Debug\net6.0\Task001_enddigit.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2\Task001_enddigit\obj\Debug\net6.0\refint\Task001_enddigit.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2\Task001_enddigit\obj\Debug\net6.0\Task001_enddigit.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2\Task001_enddigit\obj\Debug\net6.0\Task001_enddigit.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.2 - функции и массивы(C#)\Seminar 4.2\Task001_enddigit\obj\Debug\net6.0\ref\Task001_enddigit.dll
